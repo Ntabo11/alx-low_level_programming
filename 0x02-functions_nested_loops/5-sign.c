@@ -20,6 +20,8 @@ int print_sign(int n)
 		return (0);
 	}
 	else
+	{
 		_pucthar('-');
 		return (-1);
+	}
 }
