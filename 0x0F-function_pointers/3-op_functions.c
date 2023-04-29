@@ -22,7 +22,7 @@ int op_sub(int a, int b)
 	return (a - b);
 }
 /**
- * op_mul - Multiplication
+ * op_mul - 5 functions
  * @a: input one
  * @b: input tow
  * Returnn: 0
@@ -42,7 +42,7 @@ int op_div(int a, int b)
 	return (a / b);
 }
 /**
- * op_mod - remainder of division
+ * op_mod - remainder
  * @a: input one
  * @b: input tow
  * Return: 0
