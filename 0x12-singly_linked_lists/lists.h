@@ -7,7 +7,8 @@
 /**
  * struct lists_s - singly linked list
  * @str: string - (malloc'edstring)
- * @len: length of the string
+ * @len: length of the strin
+ * @list-s: is old list
  * @next: points to the next node
  * Description: singly linked list node structure
  * for holberton project
