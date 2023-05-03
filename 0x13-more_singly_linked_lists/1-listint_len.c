@@ -1,7 +1,7 @@
 #include "lists.h"
 #include <stddef.h>
 /**
- * listint_len - R the Nbrs of element 
+ * listint_len - R the Nbrs of element
  * @h: linked list of type listint_t
  * Return: Nbrs of nodes
  */
