@@ -10,7 +10,7 @@ int _sqrt_recursion(int n)
 	if (n < 0)
 		return (-1);
 	else
-		return (squqreroot(n, (n + 1) / 2));
+		return (squareroot(n, (n + 1) / 2));
 }
 /**
  * squareroot - checks if prefect square
